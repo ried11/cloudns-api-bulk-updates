@@ -5,10 +5,10 @@
  */
 
 // Auth ID and Password
-define("AUTH_ID", 0);
-define("AUTH_PASS", "xxx");
+define("AUTH_ID", farid.steady@yahoo.com);
+define("AUTH_PASS", "meliodas11");
 
-$list = "domain1.com,127.0.0.1
+$list = "https://dichvusocks.us,91.ri
 domain2.com,127.0.0.2";
 
 /**
